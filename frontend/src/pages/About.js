@@ -79,7 +79,7 @@ export default function About() {
           TaskFlow TMS
         </div>
         <div style={{ color: 'var(--text3)', fontSize: '0.84rem', fontFamily: 'var(--font-mono)' }}>
-          Built for the Software Engineering Design Assignment · 24BIT0281
+          24BIT0281
         </div>
       </div>
     </div>
