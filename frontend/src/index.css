@@ -5,8 +5,8 @@
   --surface: #1e1e2e;
   --surface2: #262638;
   --border: #2e2e46;
-  --accent: #7c6af7;
-  --accent2: #a78bfa;
+  --accent: #e331ec;
+  --accent2: #de6cdc;
   --accent-dim: rgba(124, 106, 247, 0.15);
   --green: #34d399;
   --green-dim: rgba(52, 211, 153, 0.15);
@@ -17,8 +17,8 @@
   --blue: #60a5fa;
   --blue-dim: rgba(96, 165, 250, 0.15);
   --text: #e8e8f0;
-  --text2: #9898b8;
-  --text3: #6666a0;
+  --text2: #78005c;
+  --text3: #a85374;
   --font-display: 'Syne', sans-serif;
   --font-mono: 'Space Mono', monospace;
   --radius: 10px;
